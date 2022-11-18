@@ -56,7 +56,6 @@ magic_button = ctk.CTkButton(
     command=apply_magic,
 )
 magic_button.configure(text="Apply magic")
-# magic_button.place(x=206, y=60)
 magic_button.place(x=133, y=60)
 
 save_button = ctk.CTkButton(
